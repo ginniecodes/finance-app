@@ -80,11 +80,11 @@ There is a lot of code left to cover, starting by client's folder which has no t
 
 ## What's left?
 
-- [] Well, a lot. Models are almost donde for basic CRUD operations but controllers and routes needs to be fulfilled, and cover all of three with tests.
+[ ] - Well, a lot. Models are almost donde for basic CRUD operations but controllers and routes needs to be fulfilled, and cover all of three with tests.
 
-- [] Reports
+[] - Reports
 
-- [] Admin Dashboard
+[ ] - Admin Dashboard
 
 
 
