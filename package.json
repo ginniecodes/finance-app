@@ -1,0 +1,25 @@
+{
+  "name": "finance-app",
+  "version": "0.1.1",
+  "description": "Test finance web application made with express and react",
+  "main": "main.js",
+  "repository": "https://github.com/jhia/finance-app",
+  "author": "Jhinel Arcaya<hello@jhia.pw>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node main.js",
+    "test": "mocha"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "knex": "^0.21.1",
+    "pg": "^8.2.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.2.0"
+  }
+}

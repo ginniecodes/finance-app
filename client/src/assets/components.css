@@ -1,0 +1,14 @@
+#navbar .logo {
+  height: 30px;
+}
+
+#navbar .title {
+  margin-left: 1.25rem;
+}
+
+.loader {
+  flex: 1;
+  align-self: stretch;
+  justify-content: center;
+  align-items: center;
+}
